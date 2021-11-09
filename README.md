@@ -5,3 +5,5 @@
 3) Python Project : Pillow, Tesseract e OpenCv - University of Michigan
    * 3.1: Criação de uma "Contact Sheet", separando os canais R, G e B.
 4) Tesseract - OCR
+5) Kraken and OpenCv
+6) Final project
